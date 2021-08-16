@@ -1,0 +1,40 @@
+body{color:#000;padding:0px;margin:0px; font-family:Arial, sans-serif; font-size:14px; }
+#page_1{height:1400px;}
+/*
+h1{font-size:18px;width:100%; text-align:center;margin:0px;color:red;}
+.soc_add{font-size:14px;width:100%;float:left; text-align:center; font-size:11px; font-weight:normal;}
+.wrapper_1{width:100%;float:left;margin-top:10px;}
+*/
+.pdf_page{font-family:Arial;}
+.page_1{width:700px;float:left;border:#000 2px solid;}
+.pdf_page p{font-size:14px;margin:0px;	}
+.tax_invoice{text-align:center;}
+h1{font-size:18px;}
+h2{margin-top:0px;margin-bottom:0px;font-size:16px;}
+.company_name{font-size:14px;}
+.kudo_add{line-height:22px;}
+.service_details{width:100%;text-align:center;border:#000 1px solid;border-left:none;border-right:none;}
+
+.billing_invoice{width:100%;float:left;}
+.billing_details{padding:20px;width:350px;border-right:#000 2px solid;float:left;}
+.pdf_page p.buyer_details{margin-top:20px;font-weight:bold;}
+h2.buyer_name{margin-top:10px;}
+.invoice_details{padding:20px;text-align:right;vertical-align:top;float:right;}
+
+.signature{width:100%;float:right;padding:50px;}
+
+.sign_company{font-size:14px;margin-bottom:0px;}
+.cominfo{width:100%;float:left;text-align:center;padding:10px 0px;}
+.table {
+  width:100%;float:left;border-top: 1px solid black;border-bottom: 1px solid black;
+}
+.table-row {
+width:100%;
+  float:left;
+}
+.table-cell {
+width:auto;
+  float:left;
+  padding: 10px;
+  border: 1px solid black;text-align:center;
+}
